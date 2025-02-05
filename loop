@@ -1,0 +1,5 @@
+#!/bin/bash
+for employee in yusuf blessing gakwaya 
+do
+echo "$employee is hardworking"
+done
